@@ -1,0 +1,5 @@
+Mango 42
+Orange 30
+Avacado 20
+Apple 50
+Guava 50
